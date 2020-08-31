@@ -2,7 +2,7 @@
 
 **Routing write and read queries to master and slave db respectively.**
 
-This project demonstrates how to implement db-replication using mysql and `connector/j`.
+This project demonstrates how to implement db-replication using mysql and `connector/j`. For a complete write-up visit http://bloggersbays.in/blog?id=115a0758-6c42-43cc-92f3-d5d733e7b2c5
 
 **Pros** :
 1. Minimal code chnages required.
